@@ -1,4 +1,5 @@
 arena登陆神器，vscode插件，拖放安装，便捷提取，无月租。
+首页：https://golook.cc.cd/
 
 <img width="813" height="939" alt="f2cd600721bc1416f71e14f1a7e59f7e" src="https://github.com/user-attachments/assets/6f284afa-830c-4fd3-b751-d899e5407edd" />
 
@@ -13,11 +14,11 @@ arena登陆神器，vscode插件，拖放安装，便捷提取，无月租。
 
 4.在本网页/插件点查看确认链接，邮件确认链会刷新出来，点复制，到指纹浏览器打开，填密码，arena就登录了。
 
-5.点启动桥接按钮，复制提示词到arena对话框，即可在对话框与AI对话，同时AI可修改本地项目文件
+5.点启动桥接按钮，复制MCP连接提示词到arena对话框，即可在对话框与AI对话，同时AI可修改本地项目文件
 
 
 经验教训
-0.你仔细想想，一个账号4毛，可以用一到两天，开发时留好进度，是不是已经够了。
+0.你仔细想想，一个账号几毛，可以用一到两天，开发时留好进度，用就买，不用就不买，一个月四五块就够了。
 
 1.蹬自行车时，只要账号没掉，遇到报错就切代理刷新
 
@@ -31,6 +32,9 @@ arena登陆神器，vscode插件，拖放安装，便捷提取，无月租。
 
 6.如果你使用ProxyShard指纹浏览器，点击订单后的自动登录Arena会自动打开，填写邮箱
 
-
+7.vscode插件更新地址：https://github.com/shenbushou/juzi_bridge/tree/main/dist
+指纹浏览器地址：https://github.com/ProxyShard/ShardBrowser/
+<img width="1077" height="381" alt="ea0f0081a89b03848b8b4099c62148d0" src="https://github.com/user-attachments/assets/89f502c4-2c5a-4ba5-87bb-bbcba05cb0ef" />
+<img width="1080" height="582" alt="965e69093dc61141da4f3bc6b6dbfce3" src="https://github.com/user-attachments/assets/96584eac-dfb3-4884-98f0-5ff684a5773d" />
 
 
