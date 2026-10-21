@@ -34,7 +34,7 @@ arena登陆神器，vscode插件，拖放安装，便捷提取，无月租。
 
 5.如果google验证反复过不了，你就切代理
 
-6.如果你使用ProxyShard指纹浏览器，点击订单后的自动登录Arena会自动打开，填写邮箱
+6. 如果你使用 ProxyShard 指纹浏览器，点订单后的「自动登录Arena」会全自动跑完整套流程：自动打开指纹浏览器 → 用订单邮箱提交注册 → 从订单自动取确认链接 → 设置密码并 Finish → 回首页处理条款 → 切 Agent 模式发出提示词。密码会显示在订单详情的「登录密码」里，建议复制保存。中途失败时进度行会显示 [n/7] 卡在哪一步，并附带 URL、登录状态等诊断信息。
 
 7.vscode插件更新地址：https://github.com/shenbushou/juzi_bridge/tree/main/dist
 指纹浏览器地址：https://github.com/ProxyShard/ShardBrowser/
