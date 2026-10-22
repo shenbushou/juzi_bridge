@@ -1,3 +1,4 @@
+桔子桥接qq群：763887848
 arena登陆神器，vscode插件，拖放安装，便捷提取，无月租。
 首页：https://golook.cc.cd/
 
