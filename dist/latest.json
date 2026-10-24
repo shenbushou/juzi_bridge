@@ -1,51 +1,9 @@
 {
-  "generated": "2026-10-24T03:02:12.013Z",
+  "generated": "2026-10-24T04:07:07.672Z",
   "repo": "shenbushou/juzi_bridge",
   "branch": "main",
   "latest": "1.1.22",
   "files": [
-    {
-      "name": "juzi-bridge-pay-1.1.14.vsix",
-      "size": 190206,
-      "sha": "ec12626359231c7a319bd1ffa17e63e87668dbef",
-      "download_url": "https://raw.githubusercontent.com/shenbushou/juzi_bridge/main/dist/juzi-bridge-pay-1.1.14.vsix"
-    },
-    {
-      "name": "juzi-bridge-pay-1.1.16.vsix",
-      "size": 190885,
-      "sha": "0cd9f52ae2ee27094112b90fcddc8a40cb62da09",
-      "download_url": "https://raw.githubusercontent.com/shenbushou/juzi_bridge/main/dist/juzi-bridge-pay-1.1.16.vsix"
-    },
-    {
-      "name": "juzi-bridge-pay-1.1.17.vsix",
-      "size": 194885,
-      "sha": "bcbbdc6d941a00f1c79ee257681bbeddb357f271",
-      "download_url": "https://raw.githubusercontent.com/shenbushou/juzi_bridge/main/dist/juzi-bridge-pay-1.1.17.vsix"
-    },
-    {
-      "name": "juzi-bridge-pay-1.1.18.vsix",
-      "size": 195753,
-      "sha": "6db4dedf46c9388a44e4064065bfbcb8ce613997",
-      "download_url": "https://raw.githubusercontent.com/shenbushou/juzi_bridge/main/dist/juzi-bridge-pay-1.1.18.vsix"
-    },
-    {
-      "name": "juzi-bridge-pay-1.1.19.vsix",
-      "size": 195806,
-      "sha": "f59d70edf382ab24d5cc101350e25cc0a4cf3e04",
-      "download_url": "https://raw.githubusercontent.com/shenbushou/juzi_bridge/main/dist/juzi-bridge-pay-1.1.19.vsix"
-    },
-    {
-      "name": "juzi-bridge-pay-1.1.20.vsix",
-      "size": 197348,
-      "sha": "624c364b91cc0a7471c56624632814a8fa692f5a",
-      "download_url": "https://raw.githubusercontent.com/shenbushou/juzi_bridge/main/dist/juzi-bridge-pay-1.1.20.vsix"
-    },
-    {
-      "name": "juzi-bridge-pay-1.1.21.vsix",
-      "size": 197694,
-      "sha": "6db3c4ff47a68790d1554332df4ea3f9ba6b41dd",
-      "download_url": "https://raw.githubusercontent.com/shenbushou/juzi_bridge/main/dist/juzi-bridge-pay-1.1.21.vsix"
-    },
     {
       "name": "juzi-bridge-pay-1.1.22.vsix",
       "size": 194238,
