@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-25T14:12:31.917Z",
+  "generated": "2026-10-26T03:15:59.000Z",
   "repo": "shenbushou/juzi_bridge",
   "branch": "main",
-  "latest": "1.1.25",
+  "latest": "1.1.26",
   "files": [
     {
       "name": "juzi-bridge-pay-1.1.22.vsix",
@@ -27,6 +27,12 @@
       "size": 199555,
       "sha": "6935a7e52a1185047e485f3298a1b04e6aeb1bfb",
       "download_url": "https://raw.githubusercontent.com/shenbushou/juzi_bridge/main/dist/juzi-bridge-pay-1.1.25.vsix"
+    },
+    {
+      "name": "juzi-bridge-pay-1.1.26.vsix",
+      "size": 200102,
+      "sha": "73aa1385ea2a4ce885a8fa05160c8c54fe731530",
+      "download_url": "https://raw.githubusercontent.com/shenbushou/juzi_bridge/main/dist/juzi-bridge-pay-1.1.26.vsix"
     }
   ]
 }
