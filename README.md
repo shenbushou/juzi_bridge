@@ -1,5 +1,5 @@
 桔子桥接qq群：763887848
-arena登陆神器，vscode插件，拖放安装，便捷提取，无月租。
+arena自动登陆神器，vscode插件，拖放安装，便捷提取，单价低，无月租。
 首页：https://golook.cc.cd/
 
 <img width="813" height="939" alt="f2cd600721bc1416f71e14f1a7e59f7e" src="https://github.com/user-attachments/assets/6f284afa-830c-4fd3-b751-d899e5407edd" />
@@ -9,7 +9,7 @@ arena登陆神器，vscode插件，拖放安装，便捷提取，无月租。
 
 0.先在下面的登录工作台处注册登录账号，充值时不能挂代理
 
-1.一定要用指纹浏览器打开arena，比特浏览器或ProxyShard之类，比较方便，开个全局代理就行了。
+1.一定要用指纹浏览器打开arena，比特浏览器或ProxyShard之类，比较方便，开个全局代理就行了。ProxyShard适配了自动登录。
 
 2.在指纹浏览器中打开arena、打开本网页/插件。点创建订单。
 
@@ -43,9 +43,9 @@ arena登陆神器，vscode插件，拖放安装，便捷提取，无月租。
 <img width="1080" height="582" alt="965e69093dc61141da4f3bc6b6dbfce3" src="https://github.com/user-attachments/assets/96584eac-dfb3-4884-98f0-5ff684a5773d" />
 
 
-
-
----
+ ## 本桥接工具有自动化登陆
+<img width="1071" height="354" alt="8567a6a5bae919567fe98245b35f4b65" src="https://github.com/user-attachments/assets/50278aa3-88f0-40c1-a777-f3024b496e32" />
+如果你是用的是开源浏览器ProxyShard，不用手动登陆，直接点击订单后的自动登陆arena。会自动登陆并发鹈鹕提示词， 非常方便，节约了大量时间。
 
 ## 下载与校验（重要）
 
