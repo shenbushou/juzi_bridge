@@ -50,7 +50,7 @@ arena自动登陆神器，vscode插件，拖放安装，便捷提取，单价低
 ## 下载与校验（重要）
 
 - 只从本仓库的 `dist/` 下载 `.vsix`，拖进 VS Code 安装。其它群里、网盘里流传的"免费版"可能被改过（甚至夹带后门）。
-- 每个发布包都可以核对哈希：`dist/SHA256SUMS` 里是对应文件的 SHA-256，下载后自行比对（Windows：`certutil -hashfile juzi-bridge-pay-1.1.27.vsix SHA256`）。
+- 每个发布包都可以核对哈希：`dist/SHA256SUMS` 里是对应文件的 SHA-256，下载后自行比对（Windows：`certutil -hashfile juzi-bridge-pay-1.1.28.vsix SHA256`）。
 - 插件的「检查更新」读的是 `dist/latest.json`（走 raw.githubusercontent.com，不占用 GitHub API 配额，1.1.16 起生效）；该文件每次发版由构建脚本自动重写，所以 `dist/` 里出现新 VSIX 就一定在清单里。
 - 单价以网站为准（`https://golook.cc.cd/api/price` 或页面上显示的「桔子 / 次」）；插件会自动跟随服务端价格，不需要重装。
 - 旧版本会被要求更新：服务端设定最低可用版本后，过低版本无法启动桥接，请用 `dist/` 里的最新包。
